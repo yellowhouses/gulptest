@@ -1,0 +1,30 @@
+{
+  "name": "gulptest",
+  "version": "1.0.0",
+  "description": "it will become stronger",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.5.3"
+  },
+  "devDependencies": {
+    "gulp-content-includer": "0.0.7",
+    "gulp-rename": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yellowhouses/gulptest.git"
+  },
+  "keywords": [
+    "*hope8848"
+  ],
+  "author": "yellowhouses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yellowhouses/gulptest/issues"
+  },
+  "homepage": "https://github.com/yellowhouses/gulptest#readme"
+}
